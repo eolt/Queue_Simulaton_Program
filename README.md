@@ -4,7 +4,7 @@ Steps from *Data Structures Using C++*, D.S. Malik
 <hr>
 
 This program is meant to simulate a queuing type situation where a number of servers are serving as many customers during a 
-selected time interval; such as a grocery store check out or theater box office. The objective is to figure the average amount
+selected time interval; such as a grocery store checkout or theater box office. The objective is to figure the average amount
 of time a customer waits in line (queue) before reaching server.
 
 For this simulation, the user will assign the number of servers, how long is the time interval, the 
